@@ -7,7 +7,7 @@ It's a wiki to start gathering development and educational strategy for parents,
 
 * [Gross motor](/gross-motor-skills)
 
-some change
+
 
 Fine Motor
 - cutting with scissors
