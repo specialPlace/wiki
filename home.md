@@ -4,17 +4,9 @@
 # A Special Place
 
 It's a wiki to start gathering development and educational strategy for parents, teachers or educators of children with special needs. 
-[Gross motor](Gross motor)
+[Gross motor](/gross-motor-skills)
 
-- crawling
-- walking
-- running
-- skipping
-- jumping
-- climbing
-- balance
-- cycling / pedaling
-- going up and down the stairs
+
 Fine Motor
 - cutting with scissors
 - using tweezers
